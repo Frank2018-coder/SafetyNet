@@ -1,0 +1,473 @@
+01-11-2023 19:09:43.490 898  [main] INFO  com.safety.SafetyNet - Starting SafetyNet using Java 20.0.1 with PID 6004 (E:\SafetyNet_27102023\target\classes started by fodou in E:\SafetyNet_27102023)
+01-11-2023 19:09:43.532 940  [main] INFO  com.safety.SafetyNet - No active profile set, falling back to 1 default profile: "default"
+01-11-2023 19:09:44.779 2187 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+01-11-2023 19:09:44.889 2297 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 98 ms. Found 6 JPA repository interfaces.
+01-11-2023 19:09:45.661 3069 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 81 (http)
+01-11-2023 19:09:45.780 3188 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2141 ms
+01-11-2023 19:09:45.960 3368 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+01-11-2023 19:09:46.026 3434 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.13.Final
+01-11-2023 19:09:46.029 3437 [main] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+01-11-2023 19:09:46.382 3790 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+01-11-2023 19:09:46.411 3819 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+01-11-2023 19:09:46.938 4346 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@e5c5e6
+01-11-2023 19:09:46.939 4347 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+01-11-2023 19:09:47.011 4419 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQL57Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+01-11-2023 19:09:47.013 4421 [main] WARN  org.hibernate.orm.deprecation - HHH90000026: MySQL57Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+01-11-2023 19:10:40.572 1194 [main] INFO  com.safety.SafetyNet - Starting SafetyNet using Java 20.0.1 with PID 17800 (E:\SafetyNet_27102023\target\classes started by fodou in E:\SafetyNet_27102023)
+01-11-2023 19:10:40.579 1201 [main] INFO  com.safety.SafetyNet - No active profile set, falling back to 1 default profile: "default"
+01-11-2023 19:10:41.726 2348 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+01-11-2023 19:10:41.821 2443 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 87 ms. Found 6 JPA repository interfaces.
+01-11-2023 19:10:42.363 2985 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 81 (http)
+01-11-2023 19:10:42.370 2992 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-81"]
+01-11-2023 19:10:42.371 2993 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+01-11-2023 19:10:42.372 2994 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+01-11-2023 19:10:42.461 3083 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+01-11-2023 19:10:42.461 3083 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1737 ms
+01-11-2023 19:10:42.609 3231 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+01-11-2023 19:10:42.654 3276 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.13.Final
+01-11-2023 19:10:42.657 3279 [main] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+01-11-2023 19:10:42.914 3536 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+01-11-2023 19:10:42.936 3558 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+01-11-2023 19:10:43.230 3852 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2dc3ece8
+01-11-2023 19:10:43.232 3854 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+01-11-2023 19:10:43.272 3894 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQL57Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+01-11-2023 19:10:43.274 3896 [main] WARN  org.hibernate.orm.deprecation - HHH90000026: MySQL57Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+01-11-2023 19:10:44.347 4969 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+01-11-2023 19:10:45.742 6364 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+01-11-2023 19:10:49.039 9661 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+01-11-2023 19:10:49.344 9966 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+01-11-2023 19:10:49.462 10084 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 8 mappings in 'requestMappingHandlerMapping'
+01-11-2023 19:10:49.486 10108 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+01-11-2023 19:10:49.496 10118 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 2 @ExceptionHandler, 1 ResponseBodyAdvice
+01-11-2023 19:10:49.532 10154 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 2 @ExceptionHandler, 0 ResponseBodyAdvice
+01-11-2023 19:10:49.850 10472 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-81"]
+01-11-2023 19:10:49.873 10495 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 81 (http) with context path ''
+01-11-2023 19:10:49.883 10505 [main] INFO  com.safety.SafetyNet - Started SafetyNet in 10.129 seconds (process running for 11.505)
+01-11-2023 19:11:30.471 51093 [http-nio-81-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+01-11-2023 19:11:30.472 51094 [http-nio-81-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+01-11-2023 19:11:30.472 51094 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+01-11-2023 19:11:30.472 51094 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+01-11-2023 19:11:30.472 51094 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+01-11-2023 19:11:30.473 51095 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@65669def
+01-11-2023 19:11:30.474 51096 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@254dfd34
+01-11-2023 19:11:30.474 51096 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+01-11-2023 19:11:30.474 51096 [http-nio-81-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+01-11-2023 19:11:30.484 51106 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - GET "/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config", parameters={masked}
+01-11-2023 19:11:30.510 51132 [http-nio-81-exec-1] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+01-11-2023 19:11:30.536 51158 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 19:11:30.573 51195 [http-nio-81-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - GET "/swagger-ui/swagger-ui.css", parameters={}
+01-11-2023 19:11:30.574 51196 [http-nio-81-exec-4] DEBUG o.s.web.servlet.DispatcherServlet - GET "/swagger-ui/swagger-ui-bundle.js", parameters={}
+01-11-2023 19:11:30.574 51196 [http-nio-81-exec-8] DEBUG o.s.web.servlet.DispatcherServlet - GET "/swagger-ui/swagger-initializer.js", parameters={}
+01-11-2023 19:11:30.575 51197 [http-nio-81-exec-6] DEBUG o.s.web.servlet.DispatcherServlet - GET "/swagger-ui/swagger-ui-standalone-preset.js", parameters={}
+01-11-2023 19:11:30.575 51197 [http-nio-81-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - GET "/swagger-ui/index.css", parameters={}
+01-11-2023 19:11:30.577 51199 [http-nio-81-exec-4] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+01-11-2023 19:11:30.578 51200 [http-nio-81-exec-8] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+01-11-2023 19:11:30.578 51200 [http-nio-81-exec-2] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+01-11-2023 19:11:30.579 51201 [http-nio-81-exec-6] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+01-11-2023 19:11:30.582 51204 [http-nio-81-exec-4] DEBUG o.s.web.servlet.DispatcherServlet - Completed 304 NOT_MODIFIED
+01-11-2023 19:11:30.582 51204 [http-nio-81-exec-3] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+01-11-2023 19:11:30.584 51206 [http-nio-81-exec-6] DEBUG o.s.web.servlet.DispatcherServlet - Completed 304 NOT_MODIFIED
+01-11-2023 19:11:30.584 51206 [http-nio-81-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Completed 304 NOT_MODIFIED
+01-11-2023 19:11:30.589 51211 [http-nio-81-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - Completed 304 NOT_MODIFIED
+01-11-2023 19:11:30.618 51240 [http-nio-81-exec-8] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 19:11:31.039 51661 [http-nio-81-exec-5] DEBUG o.s.web.servlet.DispatcherServlet - GET "/api-docs/swagger-config", parameters={}
+01-11-2023 19:11:31.039 51661 [http-nio-81-exec-7] DEBUG o.s.web.servlet.DispatcherServlet - GET "/swagger-ui/favicon-32x32.png", parameters={}
+01-11-2023 19:11:31.040 51662 [http-nio-81-exec-5] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to org.springdoc.webmvc.ui.SwaggerConfigResource#openapiJson(HttpServletRequest)
+01-11-2023 19:11:31.042 51664 [http-nio-81-exec-7] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+01-11-2023 19:11:31.044 51666 [http-nio-81-exec-7] DEBUG o.s.web.servlet.DispatcherServlet - Completed 304 NOT_MODIFIED
+01-11-2023 19:11:31.062 51684 [http-nio-81-exec-5] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [*/*] and supported [application/json]
+01-11-2023 19:11:31.066 51688 [http-nio-81-exec-5] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [{configUrl=/api-docs/swagger-config, oauth2RedirectUrl=http://localhost:81/swagger-ui/oauth2-redirec (truncated)...]
+01-11-2023 19:11:31.077 51699 [http-nio-81-exec-5] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 19:11:31.122 51744 [http-nio-81-exec-9] DEBUG o.s.web.servlet.DispatcherServlet - GET "/api-docs", parameters={}
+01-11-2023 19:11:31.123 51745 [http-nio-81-exec-9] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to org.springdoc.webmvc.api.OpenApiWebMvcResource#openapiJson(HttpServletRequest, String, Locale)
+01-11-2023 19:11:31.444 52066 [http-nio-81-exec-9] INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 307 ms
+01-11-2023 19:11:31.472 52094 [http-nio-81-exec-9] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json, */*] and supported [application/json]
+01-11-2023 19:11:31.472 52094 [http-nio-81-exec-9] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [{123, 34, 111, 112, 101, 110, 97, 112, 105, 34, 58, 34, 51, 46, 48, 46, 49, 34, 44, 34, 105, 110, 10 (truncated)...]
+01-11-2023 19:11:31.472 52094 [http-nio-81-exec-9] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 19:12:14.449 95071 [http-nio-81-exec-10] DEBUG o.s.web.servlet.DispatcherServlet - GET "/safetynet/api/v1.0/address/childrenAlert?address=1509%20Culver%20St", parameters={masked}
+01-11-2023 19:12:14.450 95072 [http-nio-81-exec-10] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.safety.controller.AdressController#findChildrenByAdress(String)
+01-11-2023 19:12:14.465 95087 [http-nio-81-exec-10] DEBUG o.s.web.servlet.DispatcherServlet - Failed to complete request: java.lang.NullPointerException: Cannot invoke "com.safety.service.impl.AdressServiceImpl.childrenAlert(String)" because "this.adressService" is null
+01-11-2023 19:12:14.466 95088 [http-nio-81-exec-10] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "com.safety.service.impl.AdressServiceImpl.childrenAlert(String)" because "this.adressService" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "com.safety.service.impl.AdressServiceImpl.childrenAlert(String)" because "this.adressService" is null
+	at com.safety.controller.AdressController.findChildrenByAdress(AdressController.java:29)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+01-11-2023 19:12:14.477 95099 [http-nio-81-exec-10] DEBUG o.s.web.servlet.DispatcherServlet - "ERROR" dispatch for GET "/error?address=1509%20Culver%20St", parameters={masked}
+01-11-2023 19:12:14.478 95100 [http-nio-81-exec-10] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+01-11-2023 19:12:14.484 95106 [http-nio-81-exec-10] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+01-11-2023 19:12:14.484 95106 [http-nio-81-exec-10] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Writing [{timestamp=Wed Nov 01 19:12:14 WAT 2023, status=500, error=Internal Server Error, path=/safetynet/ap (truncated)...]
+01-11-2023 19:12:14.489 95111 [http-nio-81-exec-10] DEBUG o.s.web.servlet.DispatcherServlet - Exiting from "ERROR" dispatch, status 500
+01-11-2023 19:12:46.369 126991 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+01-11-2023 19:12:46.372 126994 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+01-11-2023 19:12:46.384 127006 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+01-11-2023 19:12:57.541 1225 [main] INFO  com.safety.SafetyNet - Starting SafetyNet using Java 20.0.1 with PID 33628 (E:\SafetyNet_27102023\target\classes started by fodou in E:\SafetyNet_27102023)
+01-11-2023 19:12:57.550 1234 [main] INFO  com.safety.SafetyNet - No active profile set, falling back to 1 default profile: "default"
+01-11-2023 19:12:59.204 2888 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+01-11-2023 19:12:59.300 2984 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 89 ms. Found 6 JPA repository interfaces.
+01-11-2023 19:12:59.884 3568 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 81 (http)
+01-11-2023 19:12:59.891 3575 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-81"]
+01-11-2023 19:12:59.893 3577 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+01-11-2023 19:12:59.893 3577 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+01-11-2023 19:12:59.990 3674 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+01-11-2023 19:12:59.990 3674 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2275 ms
+01-11-2023 19:13:00.170 3854 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+01-11-2023 19:13:00.209 3893 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.13.Final
+01-11-2023 19:13:00.211 3895 [main] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+01-11-2023 19:13:00.483 4167 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+01-11-2023 19:13:00.506 4190 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+01-11-2023 19:13:00.799 4483 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@45e639ee
+01-11-2023 19:13:00.801 4485 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+01-11-2023 19:13:00.850 4534 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQL57Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+01-11-2023 19:13:00.851 4535 [main] WARN  org.hibernate.orm.deprecation - HHH90000026: MySQL57Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+01-11-2023 19:13:01.788 5472 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+01-11-2023 19:13:01.947 5631 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+01-11-2023 19:13:02.423 6107 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+01-11-2023 19:13:02.654 6338 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+01-11-2023 19:13:02.728 6412 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 8 mappings in 'requestMappingHandlerMapping'
+01-11-2023 19:13:02.749 6433 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+01-11-2023 19:13:02.759 6443 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 2 @ExceptionHandler, 1 ResponseBodyAdvice
+01-11-2023 19:13:02.793 6477 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 2 @ExceptionHandler, 0 ResponseBodyAdvice
+01-11-2023 19:13:03.038 6722 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-81"]
+01-11-2023 19:13:03.056 6740 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 81 (http) with context path ''
+01-11-2023 19:13:03.067 6751 [main] INFO  com.safety.SafetyNet - Started SafetyNet in 6.446 seconds (process running for 7.618)
+01-11-2023 19:13:18.769 22453 [http-nio-81-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+01-11-2023 19:13:18.771 22455 [http-nio-81-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+01-11-2023 19:13:18.772 22456 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+01-11-2023 19:13:18.772 22456 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+01-11-2023 19:13:18.773 22457 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+01-11-2023 19:13:18.775 22459 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@7b4b559d
+01-11-2023 19:13:18.776 22460 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@475b796d
+01-11-2023 19:13:18.777 22461 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+01-11-2023 19:13:18.778 22462 [http-nio-81-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+01-11-2023 19:13:18.798 22482 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - GET "/safetynet/api/v1.0/address/childrenAlert?address=1509%20Culver%20St", parameters={masked}
+01-11-2023 19:13:18.823 22507 [http-nio-81-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.safety.controller.AdressController#findChildrenByAdress(String)
+01-11-2023 19:13:19.296 22980 [http-nio-81-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+01-11-2023 19:13:19.303 22987 [http-nio-81-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [ChildrenByadressDTO(children=[PersonDTO(firstName=Tenley, lastName=Boyd, adress=1509 Culver St, phon (truncated)...]
+01-11-2023 19:13:19.348 23032 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 19:19:55.960 419644 [http-nio-81-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - GET "/safetynet/api/v1.0/address/childrenAlert?address=29%2015th%20St", parameters={masked}
+01-11-2023 19:19:55.962 419646 [http-nio-81-exec-3] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.safety.controller.AdressController#findChildrenByAdress(String)
+01-11-2023 19:19:55.986 419670 [http-nio-81-exec-3] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+01-11-2023 19:19:55.986 419670 [http-nio-81-exec-3] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [ChildrenByadressDTO(children=[], otherFamilly=[PersonDTO(firstName=Jonanathan, lastName=Marrack, adr (truncated)...]
+01-11-2023 19:19:55.988 419672 [http-nio-81-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 19:20:16.111 439795 [http-nio-81-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - GET "/safetynet/api/v1.0/address/childrenAlert?address=748%20Townings%20Dr", parameters={masked}
+01-11-2023 19:20:16.121 439805 [http-nio-81-exec-2] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.safety.controller.AdressController#findChildrenByAdress(String)
+01-11-2023 19:20:16.156 439840 [http-nio-81-exec-2] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+01-11-2023 19:20:16.157 439841 [http-nio-81-exec-2] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [ChildrenByadressDTO(children=[], otherFamilly=[PersonDTO(firstName=Foster, lastName=Shepard, adress= (truncated)...]
+01-11-2023 19:20:16.159 439843 [http-nio-81-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 19:20:37.656 461340 [http-nio-81-exec-5] DEBUG o.s.web.servlet.DispatcherServlet - GET "/safetynet/api/v1.0/address/childrenAlert?address=951%20LoneTree%20Rd", parameters={masked}
+01-11-2023 19:20:37.660 461344 [http-nio-81-exec-5] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.safety.controller.AdressController#findChildrenByAdress(String)
+01-11-2023 19:20:37.721 461405 [http-nio-81-exec-5] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+01-11-2023 19:20:37.722 461406 [http-nio-81-exec-5] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [ChildrenByadressDTO(children=[], otherFamilly=[PersonDTO(firstName=Eric, lastName=Cadigan, adress=95 (truncated)...]
+01-11-2023 19:20:37.725 461409 [http-nio-81-exec-5] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 19:30:04.667 1028351 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+01-11-2023 19:30:04.670 1028354 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+01-11-2023 19:30:04.691 1028375 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+01-11-2023 19:30:11.466 1237 [main] INFO  com.safety.SafetyNet - Starting SafetyNet using Java 20.0.1 with PID 37856 (E:\SafetyNet_27102023\target\classes started by fodou in E:\SafetyNet_27102023)
+01-11-2023 19:30:11.474 1245 [main] INFO  com.safety.SafetyNet - No active profile set, falling back to 1 default profile: "default"
+01-11-2023 19:30:12.936 2707 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+01-11-2023 19:30:13.065 2836 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 115 ms. Found 6 JPA repository interfaces.
+01-11-2023 19:30:13.946 3717 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 81 (http)
+01-11-2023 19:30:13.960 3731 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-81"]
+01-11-2023 19:30:13.964 3735 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+01-11-2023 19:30:13.965 3736 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+01-11-2023 19:30:14.113 3884 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+01-11-2023 19:30:14.114 3885 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2504 ms
+01-11-2023 19:30:14.398 4169 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+01-11-2023 19:30:14.451 4222 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.13.Final
+01-11-2023 19:30:14.453 4224 [main] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+01-11-2023 19:30:14.878 4649 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+01-11-2023 19:30:14.902 4673 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+01-11-2023 19:30:15.223 4994 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@638977e0
+01-11-2023 19:30:15.225 4996 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+01-11-2023 19:30:15.267 5038 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQL57Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+01-11-2023 19:30:15.269 5040 [main] WARN  org.hibernate.orm.deprecation - HHH90000026: MySQL57Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+01-11-2023 19:30:16.598 6369 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+01-11-2023 19:30:16.763 6534 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+01-11-2023 19:30:17.276 7047 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+01-11-2023 19:30:17.638 7409 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+01-11-2023 19:30:17.787 7558 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 8 mappings in 'requestMappingHandlerMapping'
+01-11-2023 19:30:17.831 7602 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+01-11-2023 19:30:17.852 7623 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 2 @ExceptionHandler, 1 ResponseBodyAdvice
+01-11-2023 19:30:17.925 7696 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 2 @ExceptionHandler, 0 ResponseBodyAdvice
+01-11-2023 19:30:18.290 8061 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-81"]
+01-11-2023 19:30:18.329 8100 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 81 (http) with context path ''
+01-11-2023 19:30:18.345 8116 [main] INFO  com.safety.SafetyNet - Started SafetyNet in 7.705 seconds (process running for 9.056)
+01-11-2023 19:30:26.965 16736 [http-nio-81-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+01-11-2023 19:30:26.966 16737 [http-nio-81-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+01-11-2023 19:30:26.967 16738 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+01-11-2023 19:30:26.967 16738 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+01-11-2023 19:30:26.967 16738 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+01-11-2023 19:30:26.968 16739 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@6ad036d6
+01-11-2023 19:30:26.969 16740 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@542b27af
+01-11-2023 19:30:26.969 16740 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+01-11-2023 19:30:26.969 16740 [http-nio-81-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+01-11-2023 19:30:26.977 16748 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - GET "/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config", parameters={masked}
+01-11-2023 19:30:26.996 16767 [http-nio-81-exec-1] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+01-11-2023 19:30:27.018 16789 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 304 NOT_MODIFIED
+01-11-2023 19:30:27.070 16841 [http-nio-81-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - GET "/swagger-ui/swagger-initializer.js", parameters={}
+01-11-2023 19:30:27.074 16845 [http-nio-81-exec-3] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+01-11-2023 19:30:27.135 16906 [http-nio-81-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 19:30:27.639 17410 [http-nio-81-exec-5] DEBUG o.s.web.servlet.DispatcherServlet - GET "/api-docs/swagger-config", parameters={}
+01-11-2023 19:30:27.641 17412 [http-nio-81-exec-5] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to org.springdoc.webmvc.ui.SwaggerConfigResource#openapiJson(HttpServletRequest)
+01-11-2023 19:30:27.663 17434 [http-nio-81-exec-5] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [*/*] and supported [application/json]
+01-11-2023 19:30:27.667 17438 [http-nio-81-exec-5] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [{configUrl=/api-docs/swagger-config, oauth2RedirectUrl=http://localhost:81/swagger-ui/oauth2-redirec (truncated)...]
+01-11-2023 19:30:27.674 17445 [http-nio-81-exec-5] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 19:30:27.696 17467 [http-nio-81-exec-4] DEBUG o.s.web.servlet.DispatcherServlet - GET "/api-docs", parameters={}
+01-11-2023 19:30:27.698 17469 [http-nio-81-exec-4] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to org.springdoc.webmvc.api.OpenApiWebMvcResource#openapiJson(HttpServletRequest, String, Locale)
+01-11-2023 19:30:28.205 17976 [http-nio-81-exec-4] INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 494 ms
+01-11-2023 19:30:28.240 18011 [http-nio-81-exec-4] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json, */*] and supported [application/json]
+01-11-2023 19:30:28.241 18012 [http-nio-81-exec-4] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [{123, 34, 111, 112, 101, 110, 97, 112, 105, 34, 58, 34, 51, 46, 48, 46, 49, 34, 44, 34, 105, 110, 10 (truncated)...]
+01-11-2023 19:30:28.243 18014 [http-nio-81-exec-4] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 19:30:33.485 23256 [http-nio-81-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - GET "/safetynet/api/v1.0/address/childrenAlert?address=1509%20Culver%20St", parameters={masked}
+01-11-2023 19:30:33.486 23257 [http-nio-81-exec-2] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.safety.controller.AdressController#findChildrenByAdress(String)
+01-11-2023 19:30:33.488 23259 [http-nio-81-exec-2] INFO  c.s.service.impl.AdressServiceImpl - 
+
+
+01-11-2023 19:30:33.488 23259 [http-nio-81-exec-2] INFO  c.s.service.impl.AdressServiceImpl - -------------------------DEBUT childrenAlert-------------------------------
+01-11-2023 19:30:33.488 23259 [http-nio-81-exec-2] INFO  c.s.service.impl.AdressServiceImpl - -------PARAM: address = 1509 Culver St
+01-11-2023 19:30:33.756 23527 [http-nio-81-exec-2] INFO  c.s.service.impl.AdressServiceImpl - -------ChildrenByadressDTO: ChildrenByadressDTO(children=[PersonDTO(firstName=Tenley, lastName=Boyd, adress=1509 Culver St, phone=841-874-6512, age=11), PersonDTO(firstName=Roger, lastName=Boyd, adress=1509 Culver St, phone=841-874-6512, age=6)], otherFamilly=[PersonDTO(firstName=John, lastName=Boyd, adress=1509 Culver St, phone=841-874-6512, age=39), PersonDTO(firstName=Jacob, lastName=Boyd, adress=1509 Culver St, phone=841-874-6513, age=34), PersonDTO(firstName=Felicia, lastName=Boyd, adress=1509 Culver St, phone=841-874-6544, age=37)])
+01-11-2023 19:30:33.759 23530 [http-nio-81-exec-2] INFO  c.s.service.impl.AdressServiceImpl - -------------------------FIN childrenAlert-------------------------------
+
+
+01-11-2023 19:30:33.762 23533 [http-nio-81-exec-2] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+01-11-2023 19:30:33.763 23534 [http-nio-81-exec-2] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [ChildrenByadressDTO(children=[PersonDTO(firstName=Tenley, lastName=Boyd, adress=1509 Culver St, phon (truncated)...]
+01-11-2023 19:30:33.767 23538 [http-nio-81-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 20:11:11.083 1371 [main] INFO  com.safety.SafetyNet - Starting SafetyNet using Java 20.0.1 with PID 30240 (E:\SafetyNet_27102023\target\classes started by fodou in E:\SafetyNet_27102023)
+01-11-2023 20:11:11.098 1386 [main] INFO  com.safety.SafetyNet - No active profile set, falling back to 1 default profile: "default"
+01-11-2023 20:11:12.520 2808 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+01-11-2023 20:11:12.582 2870 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 55 ms. Found 6 JPA repository interfaces.
+01-11-2023 20:11:13.317 3605 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 81 (http)
+01-11-2023 20:11:13.327 3615 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-81"]
+01-11-2023 20:11:13.330 3618 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+01-11-2023 20:11:13.330 3618 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+01-11-2023 20:11:13.441 3729 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+01-11-2023 20:11:13.441 3729 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2188 ms
+01-11-2023 20:11:13.619 3907 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+01-11-2023 20:11:13.711 3999 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.13.Final
+01-11-2023 20:11:13.714 4002 [main] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+01-11-2023 20:11:14.119 4407 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+01-11-2023 20:11:14.146 4434 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+01-11-2023 20:11:14.720 5008 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6bfdaa7a
+01-11-2023 20:11:14.721 5009 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+01-11-2023 20:11:14.823 5111 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQL57Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+01-11-2023 20:11:14.825 5113 [main] WARN  org.hibernate.orm.deprecation - HHH90000026: MySQL57Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+01-11-2023 20:11:15.886 6174 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+01-11-2023 20:11:16.052 6340 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+01-11-2023 20:11:16.540 6828 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+01-11-2023 20:11:16.783 7071 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+01-11-2023 20:11:16.858 7146 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 9 mappings in 'requestMappingHandlerMapping'
+01-11-2023 20:11:16.877 7165 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+01-11-2023 20:11:16.890 7178 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 2 @ExceptionHandler, 1 ResponseBodyAdvice
+01-11-2023 20:11:16.923 7211 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 2 @ExceptionHandler, 0 ResponseBodyAdvice
+01-11-2023 20:11:17.177 7465 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-81"]
+01-11-2023 20:11:17.200 7488 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 81 (http) with context path ''
+01-11-2023 20:11:17.210 7498 [main] INFO  com.safety.SafetyNet - Started SafetyNet in 7.162 seconds (process running for 9.17)
+01-11-2023 20:11:32.515 22803 [http-nio-81-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+01-11-2023 20:11:32.516 22804 [http-nio-81-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+01-11-2023 20:11:32.516 22804 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+01-11-2023 20:11:32.516 22804 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+01-11-2023 20:11:32.517 22805 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+01-11-2023 20:11:32.518 22806 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@6b58a0f9
+01-11-2023 20:11:32.518 22806 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@65130cf2
+01-11-2023 20:11:32.518 22806 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+01-11-2023 20:11:32.519 22807 [http-nio-81-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+01-11-2023 20:11:32.528 22816 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - GET "/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config", parameters={masked}
+01-11-2023 20:11:32.550 22838 [http-nio-81-exec-1] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+01-11-2023 20:11:32.570 22858 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 304 NOT_MODIFIED
+01-11-2023 20:11:32.642 22930 [http-nio-81-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - GET "/swagger-ui/swagger-initializer.js", parameters={}
+01-11-2023 20:11:32.648 22936 [http-nio-81-exec-2] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+01-11-2023 20:11:32.697 22985 [http-nio-81-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 20:11:33.293 23581 [http-nio-81-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - GET "/api-docs/swagger-config", parameters={}
+01-11-2023 20:11:33.293 23581 [http-nio-81-exec-3] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to org.springdoc.webmvc.ui.SwaggerConfigResource#openapiJson(HttpServletRequest)
+01-11-2023 20:11:33.321 23609 [http-nio-81-exec-3] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [*/*] and supported [application/json]
+01-11-2023 20:11:33.322 23610 [http-nio-81-exec-3] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [{configUrl=/api-docs/swagger-config, oauth2RedirectUrl=http://localhost:81/swagger-ui/oauth2-redirec (truncated)...]
+01-11-2023 20:11:33.330 23618 [http-nio-81-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 20:11:33.368 23656 [http-nio-81-exec-4] DEBUG o.s.web.servlet.DispatcherServlet - GET "/api-docs", parameters={}
+01-11-2023 20:11:33.369 23657 [http-nio-81-exec-4] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to org.springdoc.webmvc.api.OpenApiWebMvcResource#openapiJson(HttpServletRequest, String, Locale)
+01-11-2023 20:11:33.726 24014 [http-nio-81-exec-4] INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 344 ms
+01-11-2023 20:11:33.751 24039 [http-nio-81-exec-4] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json, */*] and supported [application/json]
+01-11-2023 20:11:33.752 24040 [http-nio-81-exec-4] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [{123, 34, 111, 112, 101, 110, 97, 112, 105, 34, 58, 34, 51, 46, 48, 46, 49, 34, 44, 34, 105, 110, 10 (truncated)...]
+01-11-2023 20:11:33.753 24041 [http-nio-81-exec-4] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 20:11:40.491 30779 [http-nio-81-exec-5] DEBUG o.s.web.servlet.DispatcherServlet - GET "/safetynet/api/v1.0/fire-station/phoneAlert?stationNumber=1", parameters={masked}
+01-11-2023 20:11:40.493 30781 [http-nio-81-exec-5] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.safety.controller.FireStationController#phoneAlert(int)
+01-11-2023 20:11:40.496 30784 [http-nio-81-exec-5] INFO  c.s.s.impl.FireStationsServiceImpl - 
+
+
+01-11-2023 20:11:40.496 30784 [http-nio-81-exec-5] INFO  c.s.s.impl.FireStationsServiceImpl - -------------------------DEBUT getPhoneAlert-------------------------------
+01-11-2023 20:11:40.498 30786 [http-nio-81-exec-5] INFO  c.s.s.impl.FireStationsServiceImpl - -------PARAM: stationNumber = 1
+01-11-2023 20:11:40.873 31161 [http-nio-81-exec-5] INFO  c.s.s.impl.FireStationsServiceImpl - -------phoneList: [841-874-6512, 841-874-8547, 841-874-7462, 841-874-7784, 841-874-7784, 841-874-7784]
+01-11-2023 20:11:40.874 31162 [http-nio-81-exec-5] INFO  c.s.s.impl.FireStationsServiceImpl - -------------------------FIN getPhoneAlert-------------------------------
+
+
+01-11-2023 20:11:40.880 31168 [http-nio-81-exec-5] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+01-11-2023 20:11:40.884 31172 [http-nio-81-exec-5] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [[841-874-6512, 841-874-8547, 841-874-7462, 841-874-7784, 841-874-7784, 841-874-7784]]
+01-11-2023 20:11:40.887 31175 [http-nio-81-exec-5] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 20:11:52.602 42890 [http-nio-81-exec-6] DEBUG o.s.web.servlet.DispatcherServlet - GET "/safetynet/api/v1.0/fire-station/phoneAlert?stationNumber=2", parameters={masked}
+01-11-2023 20:11:52.603 42891 [http-nio-81-exec-6] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.safety.controller.FireStationController#phoneAlert(int)
+01-11-2023 20:11:52.604 42892 [http-nio-81-exec-6] INFO  c.s.s.impl.FireStationsServiceImpl - 
+
+
+01-11-2023 20:11:52.605 42893 [http-nio-81-exec-6] INFO  c.s.s.impl.FireStationsServiceImpl - -------------------------DEBUT getPhoneAlert-------------------------------
+01-11-2023 20:11:52.605 42893 [http-nio-81-exec-6] INFO  c.s.s.impl.FireStationsServiceImpl - -------PARAM: stationNumber = 2
+01-11-2023 20:11:52.707 42995 [http-nio-81-exec-6] INFO  c.s.s.impl.FireStationsServiceImpl - -------phoneList: [841-874-6513, 841-874-7878, 841-874-7512, 841-874-7512, 841-874-7458]
+01-11-2023 20:11:52.707 42995 [http-nio-81-exec-6] INFO  c.s.s.impl.FireStationsServiceImpl - -------------------------FIN getPhoneAlert-------------------------------
+
+
+01-11-2023 20:11:52.708 42996 [http-nio-81-exec-6] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+01-11-2023 20:11:52.710 42998 [http-nio-81-exec-6] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [[841-874-6513, 841-874-7878, 841-874-7512, 841-874-7512, 841-874-7458]]
+01-11-2023 20:11:52.712 43000 [http-nio-81-exec-6] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 20:11:55.722 46010 [http-nio-81-exec-7] DEBUG o.s.web.servlet.DispatcherServlet - GET "/safetynet/api/v1.0/fire-station/phoneAlert?stationNumber=5", parameters={masked}
+01-11-2023 20:11:55.723 46011 [http-nio-81-exec-7] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.safety.controller.FireStationController#phoneAlert(int)
+01-11-2023 20:11:55.724 46012 [http-nio-81-exec-7] INFO  c.s.s.impl.FireStationsServiceImpl - 
+
+
+01-11-2023 20:11:55.725 46013 [http-nio-81-exec-7] INFO  c.s.s.impl.FireStationsServiceImpl - -------------------------DEBUT getPhoneAlert-------------------------------
+01-11-2023 20:11:55.726 46014 [http-nio-81-exec-7] INFO  c.s.s.impl.FireStationsServiceImpl - -------PARAM: stationNumber = 5
+01-11-2023 20:11:55.735 46023 [http-nio-81-exec-7] INFO  c.s.s.impl.FireStationsServiceImpl - -------phoneList: []
+01-11-2023 20:11:55.736 46024 [http-nio-81-exec-7] INFO  c.s.s.impl.FireStationsServiceImpl - -------------------------FIN getPhoneAlert-------------------------------
+
+
+01-11-2023 20:11:55.737 46025 [http-nio-81-exec-7] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+01-11-2023 20:11:55.738 46026 [http-nio-81-exec-7] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [[]]
+01-11-2023 20:11:55.740 46028 [http-nio-81-exec-7] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 20:11:58.857 49145 [http-nio-81-exec-8] DEBUG o.s.web.servlet.DispatcherServlet - GET "/safetynet/api/v1.0/fire-station/phoneAlert?stationNumber=7", parameters={masked}
+01-11-2023 20:11:58.857 49145 [http-nio-81-exec-8] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.safety.controller.FireStationController#phoneAlert(int)
+01-11-2023 20:11:58.858 49146 [http-nio-81-exec-8] INFO  c.s.s.impl.FireStationsServiceImpl - 
+
+
+01-11-2023 20:11:58.858 49146 [http-nio-81-exec-8] INFO  c.s.s.impl.FireStationsServiceImpl - -------------------------DEBUT getPhoneAlert-------------------------------
+01-11-2023 20:11:58.858 49146 [http-nio-81-exec-8] INFO  c.s.s.impl.FireStationsServiceImpl - -------PARAM: stationNumber = 7
+01-11-2023 20:11:58.871 49159 [http-nio-81-exec-8] INFO  c.s.s.impl.FireStationsServiceImpl - -------phoneList: []
+01-11-2023 20:11:58.872 49160 [http-nio-81-exec-8] INFO  c.s.s.impl.FireStationsServiceImpl - -------------------------FIN getPhoneAlert-------------------------------
+
+
+01-11-2023 20:11:58.873 49161 [http-nio-81-exec-8] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+01-11-2023 20:11:58.873 49161 [http-nio-81-exec-8] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [[]]
+01-11-2023 20:11:58.876 49164 [http-nio-81-exec-8] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 21:31:37.451 4827739 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+01-11-2023 21:31:37.466 4827754 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+01-11-2023 21:31:37.474 4827762 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+01-11-2023 21:31:41.832 462  [main] INFO  com.safety.SafetyNet - Starting SafetyNet using Java 20.0.1 with PID 28680 (E:\SafetyNet_27102023\target\classes started by fodou in E:\SafetyNet_27102023)
+01-11-2023 21:31:41.838 468  [main] INFO  com.safety.SafetyNet - No active profile set, falling back to 1 default profile: "default"
+01-11-2023 21:31:42.743 1373 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+01-11-2023 21:31:42.804 1434 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 51 ms. Found 6 JPA repository interfaces.
+01-11-2023 21:31:43.163 1793 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 81 (http)
+01-11-2023 21:31:43.168 1798 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-81"]
+01-11-2023 21:31:43.170 1800 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+01-11-2023 21:31:43.170 1800 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+01-11-2023 21:31:43.230 1860 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+01-11-2023 21:31:43.230 1860 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1325 ms
+01-11-2023 21:31:43.325 1955 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+01-11-2023 21:31:43.350 1980 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.2.13.Final
+01-11-2023 21:31:43.352 1982 [main] INFO  org.hibernate.cfg.Environment - HHH000406: Using bytecode reflection optimizer
+01-11-2023 21:31:43.525 2155 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+01-11-2023 21:31:43.542 2172 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+01-11-2023 21:31:43.783 2413 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2c1a8529
+01-11-2023 21:31:43.784 2414 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+01-11-2023 21:31:43.815 2445 [main] WARN  org.hibernate.orm.deprecation - HHH90000025: MySQL57Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+01-11-2023 21:31:43.816 2446 [main] WARN  org.hibernate.orm.deprecation - HHH90000026: MySQL57Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+01-11-2023 21:31:44.455 3085 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+01-11-2023 21:31:44.579 3209 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+01-11-2023 21:31:44.954 3584 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+01-11-2023 21:31:45.095 3725 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+01-11-2023 21:31:45.144 3774 [main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 10 mappings in 'requestMappingHandlerMapping'
+01-11-2023 21:31:45.159 3789 [main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+01-11-2023 21:31:45.167 3797 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 2 @ExceptionHandler, 1 ResponseBodyAdvice
+01-11-2023 21:31:45.190 3820 [main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 2 @ExceptionHandler, 0 ResponseBodyAdvice
+01-11-2023 21:31:45.337 3967 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-81"]
+01-11-2023 21:31:45.348 3978 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 81 (http) with context path ''
+01-11-2023 21:31:45.354 3984 [main] INFO  com.safety.SafetyNet - Started SafetyNet in 3.867 seconds (process running for 4.325)
+01-11-2023 21:31:54.068 12698 [http-nio-81-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+01-11-2023 21:31:54.069 12699 [http-nio-81-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+01-11-2023 21:31:54.069 12699 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+01-11-2023 21:31:54.069 12699 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+01-11-2023 21:31:54.069 12699 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+01-11-2023 21:31:54.070 12700 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@2fad50f2
+01-11-2023 21:31:54.070 12700 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@475b796d
+01-11-2023 21:31:54.071 12701 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+01-11-2023 21:31:54.071 12701 [http-nio-81-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+01-11-2023 21:31:54.077 12707 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - GET "/swagger-ui.html", parameters={}
+01-11-2023 21:31:54.085 12715 [http-nio-81-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to org.springdoc.webmvc.ui.SwaggerWelcomeWebMvc#redirectToUi(HttpServletRequest)
+01-11-2023 21:31:54.123 12753 [http-nio-81-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Using 'application/json;q=0.8', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8] and supported [application/json, application/*+json]
+01-11-2023 21:31:54.124 12754 [http-nio-81-exec-1] DEBUG o.s.w.s.m.m.a.HttpEntityMethodProcessor - Nothing to write: null body
+01-11-2023 21:31:54.125 12755 [http-nio-81-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - Completed 302 FOUND
+01-11-2023 21:31:54.134 12764 [http-nio-81-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - GET "/swagger-ui/index.html", parameters={}
+01-11-2023 21:31:54.140 12770 [http-nio-81-exec-2] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+01-11-2023 21:31:54.143 12773 [http-nio-81-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Completed 304 NOT_MODIFIED
+01-11-2023 21:31:54.179 12809 [http-nio-81-exec-10] DEBUG o.s.web.servlet.DispatcherServlet - GET "/swagger-ui/swagger-initializer.js", parameters={}
+01-11-2023 21:31:54.180 12810 [http-nio-81-exec-10] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]]
+01-11-2023 21:31:54.212 12842 [http-nio-81-exec-10] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 21:31:54.450 13080 [http-nio-81-exec-4] DEBUG o.s.web.servlet.DispatcherServlet - GET "/api-docs/swagger-config", parameters={}
+01-11-2023 21:31:54.451 13081 [http-nio-81-exec-4] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to org.springdoc.webmvc.ui.SwaggerConfigResource#openapiJson(HttpServletRequest)
+01-11-2023 21:31:54.453 13083 [http-nio-81-exec-4] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [*/*] and supported [application/json]
+01-11-2023 21:31:54.454 13084 [http-nio-81-exec-4] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [{configUrl=/api-docs/swagger-config, oauth2RedirectUrl=http://localhost:81/swagger-ui/oauth2-redirec (truncated)...]
+01-11-2023 21:31:54.457 13087 [http-nio-81-exec-4] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 21:31:54.499 13129 [http-nio-81-exec-5] DEBUG o.s.web.servlet.DispatcherServlet - GET "/api-docs", parameters={}
+01-11-2023 21:31:54.500 13130 [http-nio-81-exec-5] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to org.springdoc.webmvc.api.OpenApiWebMvcResource#openapiJson(HttpServletRequest, String, Locale)
+01-11-2023 21:31:54.688 13318 [http-nio-81-exec-5] INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 180 ms
+01-11-2023 21:31:54.704 13334 [http-nio-81-exec-5] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json, */*] and supported [application/json]
+01-11-2023 21:31:54.705 13335 [http-nio-81-exec-5] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [{123, 34, 111, 112, 101, 110, 97, 112, 105, 34, 58, 34, 51, 46, 48, 46, 49, 34, 44, 34, 105, 110, 10 (truncated)...]
+01-11-2023 21:31:54.706 13336 [http-nio-81-exec-5] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 21:32:12.004 30634 [http-nio-81-exec-6] DEBUG o.s.web.servlet.DispatcherServlet - GET "/safetynet/api/v1.0/fire-station/fire?address=1509%20Culver%20St", parameters={masked}
+01-11-2023 21:32:12.004 30634 [http-nio-81-exec-6] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.safety.controller.FireStationController#persAndFireStationByAdress(String)
+01-11-2023 21:32:12.005 30635 [http-nio-81-exec-6] INFO  c.s.s.impl.FireStationsServiceImpl - 
+
+
+01-11-2023 21:32:12.005 30635 [http-nio-81-exec-6] INFO  c.s.s.impl.FireStationsServiceImpl - -------------------------DEBUT persAndFireStationByAdress-------------------------------
+01-11-2023 21:32:12.005 30635 [http-nio-81-exec-6] INFO  c.s.s.impl.FireStationsServiceImpl - -------PARAM: address = 1509 Culver St
+01-11-2023 21:32:12.164 30794 [http-nio-81-exec-6] INFO  c.s.s.impl.FireStationsServiceImpl - -------persAndFireStationByAdressDTO: PersAndFireStationByAdressDTO(persons=[PersonWithMedicalDTO(medications=[aznol:350mg, hydrapermazol:100mg], allergies=[nillacilan]), PersonWithMedicalDTO(medications=[pharmacol:5000mg, terazine:10mg, noznazol:250mg], allergies=[]), PersonWithMedicalDTO(medications=[], allergies=[peanut]), PersonWithMedicalDTO(medications=[], allergies=[]), PersonWithMedicalDTO(medications=[tetracyclaz:650mg], allergies=[xilliathal])], fireStationNumbers=[3])
+01-11-2023 21:32:12.164 30794 [http-nio-81-exec-6] INFO  c.s.s.impl.FireStationsServiceImpl - -------------------------FIN persAndFireStationByAdress-------------------------------
+
+
+01-11-2023 21:32:12.165 30795 [http-nio-81-exec-6] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+01-11-2023 21:32:12.165 30795 [http-nio-81-exec-6] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [PersAndFireStationByAdressDTO(persons=[PersonWithMedicalDTO(medications=[aznol:350mg, hydrapermazol: (truncated)...]
+01-11-2023 21:32:12.166 30796 [http-nio-81-exec-6] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+01-11-2023 21:52:02.837 1221467 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+01-11-2023 21:52:02.838 1221468 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+01-11-2023 21:52:02.850 1221480 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
