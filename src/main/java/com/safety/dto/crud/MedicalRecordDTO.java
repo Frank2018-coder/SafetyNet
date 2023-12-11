@@ -12,3 +12,5 @@ public class MedicalRecordDTO {
     private List<String> medications = new ArrayList<>();
     private List<String> allergies = new ArrayList<>();
 }
+
+
